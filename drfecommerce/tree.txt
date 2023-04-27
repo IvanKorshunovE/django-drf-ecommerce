@@ -1,0 +1,83 @@
+.
+├── __init__.py
+├── __pycache__
+│   └── __init__.cpython-311.pyc
+├── db.sqlite3
+├── drfecommerce
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── urls.cpython-311.pyc
+│   │   └── wsgi.cpython-311.pyc
+│   ├── asgi.py
+│   ├── db.sqlite3
+│   ├── product
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-311.pyc
+│   │   │   ├── admin.cpython-311.pyc
+│   │   │   ├── apps.cpython-311.pyc
+│   │   │   ├── models.cpython-311.pyc
+│   │   │   ├── serializers.cpython-311.pyc
+│   │   │   └── views.cpython-311.pyc
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   ├── 0001_initial.py
+│   │   │   ├── __init__.py
+│   │   │   └── __pycache__
+│   │   │       ├── 0001_initial.cpython-311.pyc
+│   │   │       └── __init__.cpython-311.pyc
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── settings
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-311.pyc
+│   │   │   ├── base.cpython-311.pyc
+│   │   │   ├── local.cpython-311.pyc
+│   │   │   └── production.cpython-311.pyc
+│   │   ├── base.py
+│   │   ├── local.py
+│   │   └── production.py
+│   ├── tests
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── conftest.cpython-311-pytest-7.3.1.pyc
+│   │   │   └── factories.cpython-311.pyc
+│   │   ├── conftest.py
+│   │   ├── factories.py
+│   │   └── product
+│   │       ├── __init__.py
+│   │       ├── __pycache__
+│   │       │   ├── __init__.cpython-311.pyc
+│   │       │   └── test_models.cpython-311-pytest-7.3.1.pyc
+│   │       └── test_models.py
+│   ├── urls.py
+│   └── wsgi.py
+├── htmlcov
+│   ├── coverage_html.js
+│   ├── d_1087eebdad200502___init___py.html
+│   ├── d_367c32cbd69f43f9___init___py.html
+│   ├── d_367c32cbd69f43f9_admin_py.html
+│   ├── d_367c32cbd69f43f9_apps_py.html
+│   ├── d_367c32cbd69f43f9_models_py.html
+│   ├── d_4cd3d479e22308e5___init___py.html
+│   ├── d_4cd3d479e22308e5_base_py.html
+│   ├── d_4cd3d479e22308e5_local_py.html
+│   ├── d_b8688a7625c3f5c7_test_example_py.html
+│   ├── favicon_32.png
+│   ├── index.html
+│   ├── keybd_closed.png
+│   ├── keybd_open.png
+│   ├── status.json
+│   └── style.css
+├── manage.py
+├── pytest.ini
+├── requirements.txt
+├── schema.yml
+└── tree.txt
+
+14 directories, 66 files
